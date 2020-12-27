@@ -1,4 +1,4 @@
-package th.ac.ku.atm;
+package atm;
 
 import java.util.Map;
 

@@ -1,4 +1,4 @@
-package th.ac.ku.atm;
+package atm;
 
 /**
  * An ATM that accesses a bank.

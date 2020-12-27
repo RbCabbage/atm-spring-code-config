@@ -1,6 +1,5 @@
-package th.ac.ku.atm;
+package atm;
 
-import java.io.IOException;
 import java.util.Scanner;
 
 /**

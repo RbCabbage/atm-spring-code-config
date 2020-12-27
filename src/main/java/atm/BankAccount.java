@@ -1,4 +1,4 @@
-package th.ac.ku.atm;
+package atm;
 
 /**
  * A bank account has a balance that can be changed by
